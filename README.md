@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EyesOnIt
 - 👀 I’m interested in machine/deep learning, distributed architectures, systems programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently engineering with python
 
 <!---
 EyesOnIt/EyesOnIt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
